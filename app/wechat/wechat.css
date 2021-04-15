@@ -1,0 +1,489 @@
+body {
+  background-color: #000;
+}
+
+.container {
+  background-color: #000;
+}
+
+.share_video_container {
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  position: relative;
+  text-align: center;
+}
+
+.bottom_bar_app_share {
+  position: fixed;
+  bottom: 0;
+  margin: 0;
+  padding: 0.6em 1em 0.5em 0.6em;
+  width: 100%;
+  z-index: 9999;
+  background-color: #2b2b2b;
+}
+
+.share_video_paly_icon {
+  display: block;
+  width: 15%;
+  z-index: 2;
+  position: absolute;
+  top: 45%;
+  left: 45%;
+}
+
+.share_video_paly_icon img {
+  width: 100%;
+}
+
+.share_video_app_icon {
+  display: inline-block;
+  width: 15%;
+}
+
+.share_video_app_icon img {
+  width: 100%;
+}
+
+.share_video_txt_all {
+  display: inline-block;
+  vertical-align: top;
+  color: white;
+  margin-left: 0.5em;
+  padding-top: 0.4em;
+  line-height: 1.5em;
+}
+
+.share_video_btn_YCF {
+  vertical-align: top;
+  display: inline-block;
+  height: 2em;
+  margin-top: 0.8em;
+  float: right;
+  text-align: center;
+  max-width: 8.2em;
+  background-color: #f9c107;
+  border-radius: 14px;
+  margin-right: 20px;
+}
+
+.share_video_btn_YMK {
+  /*font-size: 0.9em;*/
+  vertical-align: top;
+  display: inline-block;
+  height: 2em;
+  margin-top: 0.8em;
+  float: right;
+  text-align: center;
+  max-width: 8.2em;
+  background-color: #dd3c71;
+  border-radius: 14px;
+  margin-right: 20px;
+}
+
+.share_video_btn_YCP {
+  vertical-align: top;
+  display: inline-block;
+  height: 2em;
+  margin-top: 0.8em;
+  float: right;
+  text-align: center;
+  max-width: 8.2em;
+  background-color: #c23fdb;
+  border-radius: 14px;
+  margin-right: 20px;
+}
+
+.share_video_btn_YCN {
+  vertical-align: top;
+  display: inline-block;
+  height: 2em;
+  margin-top: 0.8em;
+  float: right;
+  text-align: center;
+  max-width: 8.2em;
+  background-color: #eb6ca7;
+  border-radius: 14px;
+  margin-right: 20px;
+}
+
+.share_video_btn_txt {
+  color: #2b2b2b;
+  font-weight: 700;
+  margin: 0.5em 1em;
+  cursor: pointer;
+}
+
+.share_video_btn_txt_white {
+  color: #ffffff;
+  font-weight: 700;
+  margin: 0.5em 1em;
+  cursor: pointer;
+}
+
+.txt_app_name {
+  font-size: 1.1em;
+  color: white;
+}
+
+.txt_YMK {
+  color: #dd3c71;
+  font-size: 0.9em;
+}
+
+.txt_YCP {
+  color: #c23fdb;
+  font-size: 0.9em;
+}
+
+.txt_YCF {
+  color: #f9c107;
+  font-size: 0.9em;
+}
+
+.txt_YCN {
+  color: #eb6ca7;
+  font-size: 0.9em;
+}
+
+@media only screen and (max-width: 320px) {
+
+  .share_video_app_icon {
+    display: inline-block;
+    width: 12%;
+  }
+
+  .bottom_bar_app_share {
+    position: fixed;
+    bottom: 0;
+    margin: 0;
+    padding: 0.6em 0.5em 0.5em 0.5em;
+  }
+
+  .share_video_txt_all {
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    margin-left: 0.5em;
+    padding-top: 0.3em;
+    line-height: 1.3em;
+  }
+
+  .txt_app_name {
+    font-size: 1em;
+  }
+
+  .txt_YCF {
+    font-size: 0.7em;
+  }
+
+  .txt_YMK {
+    font-size: 0.7em;
+
+  }
+
+  .txt_YCP {
+    font-size: 0.7em;
+
+  }
+
+  .txt_YCN {
+    font-size: 0.7em;
+  }
+
+  .share_video_btn_YCF {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    font-size: 0.6em;
+    background-color: #f9c107;
+    border-radius: 14px;
+    height: 2em;
+  }
+
+  .share_video_btn_txt_white {
+    color: #ffffff;
+    font-weight: 700;
+    cursor: pointer;
+    /*margin: 0.5em 1em;*/
+  }
+
+  .share_video_btn_YMK {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    background-color: #dd3c71;
+    border-radius: 14px;
+    font-size: 0.6em;
+    height: 2em;
+    /*padding: 0 0.1em;*/
+  }
+
+  .share_video_btn_YCP {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    font-size: 0.6em;
+    border-radius: 14px;
+    height: 2em;
+  }
+
+  .share_video_btn_YCN {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    background-color: #eb6ca7;
+    border-radius: 14px;
+    font-size: 0.6em;
+    height: 2em;
+  }
+}
+
+@media only screen and (min-width: 321px) and (max-width: 399px) {
+
+  .share_video_app_icon {
+    display: inline-block;
+    width: 13%;
+  }
+
+  .txt_app_name {
+    font-size: 1em;
+    color: white;
+  }
+
+  .txt_YCF {
+    font-size: 0.75em;
+    line-height: 1em;
+  }
+
+  .txt_YMK {
+    font-size: 0.75em;
+    line-height: 1em;
+  }
+
+  .txt_YCP {
+    font-size: 0.75em;
+    line-height: 1em;
+  }
+
+  .txt_YCF {
+    font-size: 0.75em;
+    line-height: 1em;
+  }
+
+  .txt_YCN {
+    font-size: 0.75em;
+    line-height: 1em;
+  }
+
+  .share_video_btn_YCF {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    width: 8em;
+    font-size: 0.7em;
+    margin-top: 15px;
+  }
+
+  .share_video_btn_YMK {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    width: 8em;
+    font-size: 0.7em;
+    margin-top: 15px;
+  }
+
+  .share_video_btn_YCP {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    width: 8em;
+    font-size: 0.7em;
+    margin-top: 15px;
+  }
+
+  .share_video_btn_YCN {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    width: 8em;
+    font-size: 0.7em;
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 599px) {
+
+  .share_video_app_icon {
+    display: inline-block;
+    width: 10%;
+  }
+
+  .share_video_txt_all {
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    margin-left: 0.5em;
+    padding-top: 0.1em;
+    line-height: 1.5em;
+    width: 47%;
+  }
+
+  .share_video_btn_txt {
+    margin: 0.6em 1em;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    cursor: pointer;
+  }
+
+  .share_video_btn_txt_white {
+    margin: 0.5em 1em;
+    font-size: 0.9em;
+    line-height: 1.2em;
+    cursor: pointer;
+  }
+
+  .txt_app_name {
+    font-size: 1.1em;
+    color: white;
+  }
+
+  .txt_YCF {
+    font-size: 0.7em;
+    line-height: 1em;
+  }
+
+  .txt_YMK {
+    font-size: 0.7em;
+    line-height: 1em;
+  }
+
+  .txt_YCP {
+    font-size: 0.7em;
+    line-height: 1em;
+  }
+
+  .txt_YCF {
+    font-size: 0.7em;
+    line-height: 1em;
+  }
+
+  .txt_YCN {
+    font-size: 0.7em;
+    line-height: 1em;
+  }
+
+  .share_video_btn_YCF {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    width: 7em;
+    background-color: #f9c107;
+    border-radius: 14px;
+    margin-top: 0.4em;
+  }
+
+  .share_video_btn_YMK {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    width: 7em;
+    background-color: #dd3c71;
+    border-radius: 14px;
+    margin-top: 0.4em;
+  }
+
+  .share_video_btn_YCP {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    width: 7em;
+    background-color: #c23fdb;
+    border-radius: 14px;
+    margin-top: 0.4em;
+  }
+
+  .share_video_btn_YCN {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    width: 7em;
+    background-color: #eb6ca7;
+    border-radius: 14px;
+    margin-top: 0.4em;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+
+  .share_video_txt_all {
+    padding-top: 0.4em;
+  }
+
+  .share_video_btn_txt_white {
+    margin: 0.5em 1em;
+    font-size: 0.9em;
+    line-height: 1.2em;
+    cursor: pointer;
+  }
+
+  .share_video_app_icon {
+    display: inline-block;
+    width: 8%;
+  }
+
+  .share_video_btn_YCF {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    width: 8em;
+    margin-top: 15px;
+  }
+
+  .share_video_btn_YMK {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    width: 8em;
+    margin-top: 15px;
+  }
+
+  .share_video_btn_YCP {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    width: 8em;
+    margin-top: 15px;
+  }
+
+  .share_video_btn_YCN {
+    vertical-align: top;
+    display: inline-block;
+    float: right;
+    width: 8em;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  #video {
+    width: 100%;
+  }
+}
+
+@media screen and (orientation: landscape) {
+  #video {
+    width: 100%;
+  }
+}
+

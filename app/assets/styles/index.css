@@ -1,0 +1,101 @@
+body {background-size:cover;display:block}
+/*main*/
+.lsub1{margin: 0px auto; text-align: center; font-weight: bold; width: 130%; position: relative; }
+.mmenu{width: 100%;height: 40px; display: block; float: left; border-bottom: solid 1px #ccc; }
+.main-wrapper{width: 75%;margin: 0px auto;text-align: center;}
+.bx-viewport{width: 100%; overflow: hidden; position: relative;}
+.mainmenu_item{height: 40px; line-height: 40px; float: left; list-style: none; position: relative; width: 100px;font-weight: normal;}
+.mainmenu_item a{text-decoration: none;font-size:1em;line-height: 10px!important;}
+.mainmenu_active{color:#ef3f78;border-bottom:solid 3px #ef3f78; }
+/*sub*/
+.lsub1{margin: 0px auto; text-align: center; font-weight: bold; position: relative; }
+.smenu{width: 100%;height: 100px; display: block; float: left; border-bottom: solid 1px #ccc; }
+.bx-wrapper{width: 100%;float: left; margin: 0px auto;}
+.bx-viewport{width: 100%; overflow: scroll; position: relative;}
+.submenu_item{float: left; list-style: none; position: relative; width: 81px;font-weight: normal;}
+.submenu_item a{text-decoration: none;font-size:0.85em;line-height: 10px!important;}
+.submenu_active{color:#ef3f78;}
+.lsub{margin: 0px auto; text-align: center; font-weight: bold;position: relative; }
+
+.icon_box{display: inline-block;position: relative;width: 70%;margin: 10px 0;}
+.icon_img{vertical-align: top;width: 100%;height: auto;}
+.icon_img img{width: 100%;}
+.icon_text{	text-align: center;	font-size: 1em;	margin-top:0.7em;white-space:nowrap}
+/*menu*/
+.menu_line{border-top:1px solid #d6d6d6;}
+.menu_box{width: 100%!important;}
+.item_box{width:82px;height: 95px;float: left; list-style: none; position: relative;font-weight: normal;}
+.item_icon{width: 82px;float: left;margin:0 auto;padding: 8%;}
+.item_text{width: 82px;float: left;text-align: center;font-size: 0.8em;line-height: 14px;padding:0px 5px;}
+.text_top{margin-top: -4px;}
+.menu_open{width: 100%;}
+.open_item{width: 103px!important;text-align: center;}
+
+/*banner*/
+.index_banner_angle{margin-top:-6%;position: relative;bottom: 0;left: 44%;}
+.index_banner_angle img{width: 50px!important;}
+.index_banner,.index_banner_s{display: inline-block;}
+.index_banner img,.index_banner_s img{width: 100%;}
+.index_graybar{height: 0.4em;background: #f4f8fb;}
+.index_whiteybar{display: block;width: 100%;height: 0.5em}
+
+/*product*/
+.s_content_box{text-align: left;}
+.look_box{width: 33%!important;}
+.s_look_product{display: inline-block;width: 90%;margin:0 3%;text-align: left;}
+.type_new{font-weight: 600;font-size: 0.9em!important;}
+.type_brand{margin:0!important;}
+.type_name{margin: 0.1em 0 0em 0!important;}
+.type_price{color: #ef3f78;}
+.type_top{font-weight: 600;font-size: 0.9em;margin-bottom: -10px;}
+.type_space{padding:0 0 0 12px;margin:0!important;}
+.type_try{
+	display: block;
+	position: absolute;
+	z-index: 2;
+	width: 35%;
+    right: 1px;
+    top:5.5em;
+    border-bottom-right-radius:6px;
+}
+.type_try img{
+	width: 100%;
+}
+
+
+@media only screen and (max-width: 320px){
+.main-wrapper{width: 100%;}
+
+.text_top{font-size: 0.7em;margin-top:-7px}
+.s_look_with_pro_h2{font-size: 0.7em!important;}
+.item_box{height: 90px;}
+.menu_box{padding:0 0 5px 4px;}
+.item_box{width: 79px;}
+.arrow_img{width: 90%;}
+.index_banner_angle{margin-top: -8%;}
+}
+
+@media only screen and (max-width: 375px)and (min-width: 321px){
+.main-wrapper{width: 80%;}
+.menu_box{padding:0 10px 7px 13px;}
+.item_box{width: 88px;}
+}
+@media only screen and (max-width: 767px)and (min-width: 415px){
+.right_arrow{margin-top: -10px;}
+.index_banner_angle{margin-top: -4.5%;}
+}
+@media only screen and (min-width: 768px){
+.bx-wrapper{max-width: 680px;}
+.menu{width: 68%; display: block; float: left; }
+.item_box{margin: 0 2%;width: 75px;}
+.item_text{font-size: 0.9em;}
+.smenu{height: 50px;}
+.submenu_item{line-height: 50px;padding: 0 45px;width: 120px;height: 50px}
+.submenu_item a{font-size: 1.2em;}
+.right_arrow{margin-top: -10px;}
+.index_banner_angle{margin-top: -3.5%;}
+.s_look_with_pro_h2,.s_look_with_pro_price{font-size: 1em!important;}
+.s_look_product{margin: 0 2%;}
+.type_space{padding:10px 0 0 30px;font-size: 1.5em;}
+}
+

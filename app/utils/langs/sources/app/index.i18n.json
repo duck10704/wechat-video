@@ -1,0 +1,282 @@
+[
+  {
+    "id": "index.home",
+    "defaultMessage": "Home"
+  },
+  {
+    "id": "index.super.admin",
+    "defaultMessage": "Super Admin"
+  },
+  {
+    "id": "index.summary.bc",
+    "defaultMessage": "Summary (Beauty Circle)"
+  },
+  {
+    "id": "index.summary.brand",
+    "defaultMessage": "Summary (Brand)"
+  },
+  {
+    "id": "index.compare.by.country",
+    "defaultMessage": "Compare By Country"
+  },
+  {
+    "id": "index.compare.by.brand",
+    "defaultMessage": "Compare By Brand"
+  },
+  {
+    "id": "index.misc",
+    "defaultMessage": "Misc"
+  },
+  {
+    "id": "index.help",
+    "defaultMessage": "Help"
+  },
+  {
+    "id": "index.insights",
+    "defaultMessage": "Insights"
+  },
+  {
+    "id": "index.overview",
+    "defaultMessage": "Overview"
+  },
+  {
+    "id": "index.followers",
+    "defaultMessage": "Followers"
+  },
+  {
+    "id": "index.post.views",
+    "defaultMessage": "Post Views"
+  },
+  {
+    "id": "index.people.reached",
+    "defaultMessage": "People Reached"
+  },
+  {
+    "id": "index.engagement",
+    "defaultMessage": "Engagement"
+  },
+  {
+    "id": "index.your.followers",
+    "defaultMessage": "Your Followers"
+  },
+  {
+    "id": "index.people.engaged",
+    "defaultMessage": "People Engaged"
+  },
+  {
+    "id": "index.publishing.tools",
+    "defaultMessage": "Publishing Tools"
+  },
+  {
+    "id": "index.posts",
+    "defaultMessage": "Post"
+  },
+  {
+    "id": "index.write.a.post",
+    "defaultMessage": "Write a Post"
+  },
+  {
+    "id": "index.edit.post",
+    "defaultMessage": "Edit Post"
+  },
+  {
+    "id": "index.manage.tabs",
+    "defaultMessage": "Manage Tabs"
+  },
+  {
+    "id": "index.circles",
+    "defaultMessage": "Circles"
+  },
+  {
+    "id": "index.create.circle",
+    "defaultMessage": "Create Circle"
+  },
+  {
+    "id": "index.edit.circle",
+    "defaultMessage": "Edit Circle"
+  },
+  {
+    "id": "index.facebook.fanpage",
+    "defaultMessage": "Facebook Fanpage"
+  },
+  {
+    "id": "index.facebook.fanpage.posts",
+    "defaultMessage": "Facebook Fanpage Posts"
+  },
+  {
+    "id": "index.tag.circle.map",
+    "defaultMessage": "Tag Circle Map"
+  },
+  {
+    "id": "index.auto.post",
+    "defaultMessage": "Auto Post"
+  },
+  {
+    "id": "index.settings",
+    "defaultMessage": "Settings"
+  },
+  {
+    "id": "index.profile",
+    "defaultMessage": "Profile"
+  },
+  {
+    "id": "index.general",
+    "defaultMessage": "General"
+  },
+  {
+    "id": "index.role.management",
+    "defaultMessage": "Role Management"
+  },
+  {
+    "id": "index.internal.role.management",
+    "defaultMessage": "Internal Role Management"
+  },
+  {
+    "id": "index.org.management",
+    "defaultMessage": "Org. Management"
+  },
+  {
+    "id": "index.products",
+    "defaultMessage": "Products"
+  },
+  {
+    "id": "index.add.edit",
+    "defaultMessage": "Add / Edit"
+  },
+  {
+    "id": "index.list.products",
+    "defaultMessage": "List Products"
+  },
+  {
+    "id": "index.add.product",
+    "defaultMessage": "Add Product"
+  },
+  {
+    "id": "index.edit.product",
+    "defaultMessage": "Edit Product"
+  },
+  {
+    "id": "index.publish",
+    "defaultMessage": "Publish"
+  },
+  {
+    "id": "index.list.forms",
+    "defaultMessage": "List Forms"
+  },
+  {
+    "id": "index.create.form",
+    "defaultMessage": "Create Form"
+  },
+  {
+    "id": "index.edit.form",
+    "defaultMessage": "Edit Form"
+  },
+  {
+    "id": "index.view.form",
+    "defaultMessage": "View Form"
+  },
+  {
+    "id": "index.geo.filter.mode",
+    "defaultMessage": "Geo-Filter Mode"
+  },
+  {
+    "id": "index.list.places",
+    "defaultMessage": "List Places"
+  },
+  {
+    "id": "index.consultation",
+    "defaultMessage": "Consultation"
+  },
+  {
+    "id": "index.brand.insights",
+    "defaultMessage": "Brand Insights"
+  },
+  {
+    "id": "index.brand.impressions",
+    "defaultMessage": "Brand Impressions"
+  },
+  {
+    "id": "index.brand.list",
+    "defaultMessage": "Brand List"
+  },
+  {
+    "id": "index.brand.icon",
+    "defaultMessage": "Brand Icon"
+  },
+  {
+    "id": "index.impressions.per.user",
+    "defaultMessage": "Impressions Per User"
+  },
+  {
+    "id": "index.launcher.page.title",
+    "defaultMessage": "Launcher Page Tile"
+  },
+  {
+    "id": "index.promotion.page",
+    "defaultMessage": "Promotion Page"
+  },
+  {
+    "id": "index.product.usage",
+    "defaultMessage": "Product Usage"
+  },
+  {
+    "id": "index.user.engagement",
+    "defaultMessage": "User Engagement"
+  },
+  {
+    "id": "index.try",
+    "defaultMessage": "Try"
+  },
+  {
+    "id": "index.apply",
+    "defaultMessage": "Apply"
+  },
+  {
+    "id": "index.save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "index.promo.button",
+    "defaultMessage": "Promo Button"
+  },
+  {
+    "id": "index.color.preferences",
+    "defaultMessage": "Color Preferences"
+  },
+  {
+    "id": "index.look.usage",
+    "defaultMessage": "Look Usage"
+  },
+  {
+    "id": "index.ad",
+    "defaultMessage": "AD"
+  },
+  {
+    "id": "index.bnmode.retailers",
+    "defaultMessage": "Retailers"
+  },
+  {
+    "id": "index.bnmode.brandmanagement",
+    "defaultMessage": "Brand Management"
+  },
+  {
+    "id": "index.bnmode.branchmanagement",
+    "defaultMessage": "Organization Management"
+  },
+  {
+    "id": "index.bnmode.brands",
+    "defaultMessage": "Brands"
+  },
+  {
+    "id": "index.bnmode.bnmodestore",
+    "defaultMessage": "Organization Management"
+  },
+  {
+    "id": "index.bnmode.launcher.banner",
+    "defaultMessage": "YMK Launcher Banner"
+  },
+  {
+    "id": "index.account.application",
+    "defaultMessage": "Account Application"
+  }
+]

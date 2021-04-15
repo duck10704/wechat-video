@@ -1,0 +1,328 @@
+[
+  {
+    "descriptors": [
+      {
+        "defaultMessage": "Home",
+        "id": "index.home"
+      },
+      {
+        "defaultMessage": "Super Admin",
+        "id": "index.super.admin"
+      },
+      {
+        "defaultMessage": "Summary (Beauty Circle)",
+        "id": "index.summary.bc"
+      },
+      {
+        "defaultMessage": "Summary (Brand)",
+        "id": "index.summary.brand"
+      },
+      {
+        "defaultMessage": "Compare By Country",
+        "id": "index.compare.by.country"
+      },
+      {
+        "defaultMessage": "Compare By Brand",
+        "id": "index.compare.by.brand"
+      },
+      {
+        "defaultMessage": "Misc",
+        "id": "index.misc"
+      },
+      {
+        "defaultMessage": "Help",
+        "id": "index.help"
+      },
+      {
+        "defaultMessage": "Insights",
+        "id": "index.insights"
+      },
+      {
+        "defaultMessage": "Overview",
+        "id": "index.overview"
+      },
+      {
+        "defaultMessage": "Followers",
+        "id": "index.followers"
+      },
+      {
+        "defaultMessage": "Post Views",
+        "id": "index.post.views"
+      },
+      {
+        "defaultMessage": "People Reached",
+        "id": "index.people.reached"
+      },
+      {
+        "defaultMessage": "Engagement",
+        "id": "index.engagement"
+      },
+      {
+        "defaultMessage": "Your Followers",
+        "id": "index.your.followers"
+      },
+      {
+        "defaultMessage": "People Engaged",
+        "id": "index.people.engaged"
+      },
+      {
+        "defaultMessage": "Publishing Tools",
+        "id": "index.publishing.tools"
+      },
+      {
+        "defaultMessage": "Post",
+        "id": "index.posts"
+      },
+      {
+        "defaultMessage": "Write a Post",
+        "id": "index.write.a.post"
+      },
+      {
+        "defaultMessage": "Edit Post",
+        "id": "index.edit.post"
+      },
+      {
+        "defaultMessage": "Manage Tabs",
+        "id": "index.manage.tabs"
+      },
+      {
+        "defaultMessage": "Circles",
+        "id": "index.circles"
+      },
+      {
+        "defaultMessage": "Create Circle",
+        "id": "index.create.circle"
+      },
+      {
+        "defaultMessage": "Edit Circle",
+        "id": "index.edit.circle"
+      },
+      {
+        "defaultMessage": "Facebook Fanpage",
+        "id": "index.facebook.fanpage"
+      },
+      {
+        "defaultMessage": "Facebook Fanpage Posts",
+        "id": "index.facebook.fanpage.posts"
+      },
+      {
+        "defaultMessage": "Tag Circle Map",
+        "id": "index.tag.circle.map"
+      },
+      {
+        "defaultMessage": "Auto Post",
+        "id": "index.auto.post"
+      },
+      {
+        "defaultMessage": "Settings",
+        "id": "index.settings"
+      },
+      {
+        "defaultMessage": "Profile",
+        "id": "index.profile"
+      },
+      {
+        "defaultMessage": "General",
+        "id": "index.general"
+      },
+      {
+        "defaultMessage": "Role Management",
+        "id": "index.role.management"
+      },
+      {
+        "defaultMessage": "Internal Role Management",
+        "id": "index.internal.role.management"
+      },
+      {
+        "defaultMessage": "Org. Management",
+        "id": "index.org.management"
+      },
+      {
+        "defaultMessage": "Products",
+        "id": "index.products"
+      },
+      {
+        "defaultMessage": "Add / Edit",
+        "id": "index.add.edit"
+      },
+      {
+        "defaultMessage": "List Products",
+        "id": "index.list.products"
+      },
+      {
+        "defaultMessage": "Add Product",
+        "id": "index.add.product"
+      },
+      {
+        "defaultMessage": "Edit Product",
+        "id": "index.edit.product"
+      },
+      {
+        "defaultMessage": "Publish",
+        "id": "index.publish"
+      },
+      {
+        "defaultMessage": "List Forms",
+        "id": "index.list.forms"
+      },
+      {
+        "defaultMessage": "Create Form",
+        "id": "index.create.form"
+      },
+      {
+        "defaultMessage": "Edit Form",
+        "id": "index.edit.form"
+      },
+      {
+        "defaultMessage": "View Form",
+        "id": "index.view.form"
+      },
+      {
+        "defaultMessage": "Geo-Filter Mode",
+        "id": "index.geo.filter.mode"
+      },
+      {
+        "defaultMessage": "List Places",
+        "id": "index.list.places"
+      },
+      {
+        "defaultMessage": "Consultation",
+        "id": "index.consultation"
+      },
+      {
+        "defaultMessage": "Brand Insights",
+        "id": "index.brand.insights"
+      },
+      {
+        "defaultMessage": "Brand Impressions",
+        "id": "index.brand.impressions"
+      },
+      {
+        "defaultMessage": "Brand List",
+        "id": "index.brand.list"
+      },
+      {
+        "defaultMessage": "Brand Icon",
+        "id": "index.brand.icon"
+      },
+      {
+        "defaultMessage": "Impressions Per User",
+        "id": "index.impressions.per.user"
+      },
+      {
+        "defaultMessage": "Launcher Page Tile",
+        "id": "index.launcher.page.title"
+      },
+      {
+        "defaultMessage": "Promotion Page",
+        "id": "index.promotion.page"
+      },
+      {
+        "defaultMessage": "Product Usage",
+        "id": "index.product.usage"
+      },
+      {
+        "defaultMessage": "User Engagement",
+        "id": "index.user.engagement"
+      },
+      {
+        "defaultMessage": "Try",
+        "id": "index.try"
+      },
+      {
+        "defaultMessage": "Apply",
+        "id": "index.apply"
+      },
+      {
+        "defaultMessage": "Save",
+        "id": "index.save"
+      },
+      {
+        "defaultMessage": "Promo Button",
+        "id": "index.promo.button"
+      },
+      {
+        "defaultMessage": "Color Preferences",
+        "id": "index.color.preferences"
+      },
+      {
+        "defaultMessage": "Look Usage",
+        "id": "index.look.usage"
+      },
+      {
+        "defaultMessage": "AD",
+        "id": "index.ad"
+      },
+      {
+        "defaultMessage": "Retailers",
+        "id": "index.bnmode.retailers"
+      },
+      {
+        "defaultMessage": "Brand Management",
+        "id": "index.bnmode.brandmanagement"
+      },
+      {
+        "defaultMessage": "Organization Management",
+        "id": "index.bnmode.branchmanagement"
+      },
+      {
+        "defaultMessage": "Brands",
+        "id": "index.bnmode.brands"
+      },
+      {
+        "defaultMessage": "Organization Management",
+        "id": "index.bnmode.bnmodestore"
+      },
+      {
+        "defaultMessage": "YMK Launcher Banner",
+        "id": "index.bnmode.launcher.banner"
+      },
+      {
+        "defaultMessage": "Account Application",
+        "id": "index.account.application"
+      }
+    ],
+    "path": "app/index.i18n.json"
+  },
+  {
+    "descriptors": [
+      {
+        "defaultMessage": "YouCam Fun",
+        "id": "w.ycf"
+      },
+      {
+        "defaultMessage": "YouCam Perfect",
+        "id": "w.ycp"
+      },
+      {
+        "defaultMessage": "YouCam Makeup",
+        "id": "w.ymk"
+      },
+      {
+        "defaultMessage": "YouCam Nails",
+        "id": "w.ycn"
+      },
+      {
+        "defaultMessage": "Live Video Filters for Selfies",
+        "id": "w.ycf.desc"
+      },
+      {
+        "defaultMessage": "Perfect Selfies",
+        "id": "w.ycp.desc"
+      },
+      {
+        "defaultMessage": "Virtual Cosmetics",
+        "id": "w.ymk.desc"
+      },
+      {
+        "defaultMessage": "Your Mobile Nail Artist",
+        "id": "w.ycn.desc"
+      },
+      {
+        "defaultMessage": "Install",
+        "id": "w.install"
+      }
+    ],
+    "path": "app/wechat/Wechat.i18n.json"
+  }
+]

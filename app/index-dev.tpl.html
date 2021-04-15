@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--[if IE 9]>
+<html lang="en" class="ie9"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8"/>
+  <title></title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="Perfect Corp." name="author"/>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/javascript">
+  window.category = "perfect_console";
+  document.addEventListener("DOMContentLoaded", function () {
+    document.addEventListener("click", function (e) {
+      var obj = e.target;
+      if (obj && obj.dataset && obj.dataset.action) {
+        var action = obj.dataset.action;
+        var dataLayer = window.dataLayer || [];
+        var label = obj.dataset.label || obj.innerHTML;
+        dataLayer.push({
+          "category": window.category,
+          "event": "trackEvent",
+          "action": action,
+          "label": label,
+          "value": 1
+        });
+      }
+    });
+  });
+</script>
+</body>
+</html>

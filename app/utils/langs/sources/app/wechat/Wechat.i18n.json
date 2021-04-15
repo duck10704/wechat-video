@@ -1,0 +1,38 @@
+[
+  {
+    "id": "w.ycf",
+    "defaultMessage": "YouCam Fun"
+  },
+  {
+    "id": "w.ycp",
+    "defaultMessage": "YouCam Perfect"
+  },
+  {
+    "id": "w.ymk",
+    "defaultMessage": "YouCam Makeup"
+  },
+  {
+    "id": "w.ycn",
+    "defaultMessage": "YouCam Nails"
+  },
+  {
+    "id": "w.ycf.desc",
+    "defaultMessage": "Live Video Filters for Selfies"
+  },
+  {
+    "id": "w.ycp.desc",
+    "defaultMessage": "Live Video Filters for Selfies"
+  },
+  {
+    "id": "w.ymk.desc",
+    "defaultMessage": "Live Video Filters for Selfies"
+  },
+  {
+    "id": "w.ycn.desc",
+    "defaultMessage": "Live Video Filters for Selfies"
+  },
+  {
+    "id": "w.install",
+    "defaultMessage": "Install"
+  }
+]
